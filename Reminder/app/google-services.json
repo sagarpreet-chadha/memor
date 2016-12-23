@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "437602578038",
+    "firebase_url": "https://memor-bbf77.firebaseio.com",
+    "project_id": "memor-bbf77",
+    "storage_bucket": "memor-bbf77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437602578038:android:6ec6302ba129f382",
+        "android_client_info": {
+          "package_name": "sagarpreet97.reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437602578038-ls14sfava67cbmbbtpq8vjufop58gg6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK6CId8kV0LkWlNDtwV2VFFAqm7l_H5xE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

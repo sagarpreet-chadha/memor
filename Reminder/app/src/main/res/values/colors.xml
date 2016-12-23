@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C0392B</color>
+    <color name="colorPrimaryDark">#7b241c</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="startingBackground">#C0392B </color>
+    <color name="yellow_light">#C0392B</color>
+    <color name="NavBarColor">#EC407A </color>
+    <color name="MainBar_toolbar">#D81B60</color>
+    <color name="toolbar">#C0392B</color>
+<color name="white">#fdfefe</color>
+    <color name="colorFAB1">#2196F3</color>
+    <color name="colorFAB2">#E040FB</color>
+    <color name="recyclebg">#D8D8D8</color>
+    <color name="green">#55d83e</color>
+
+    <color name="Darkblue">#303F9F</color>
+    <color name="flashcard">#f7dc6f </color>
+</resources>
