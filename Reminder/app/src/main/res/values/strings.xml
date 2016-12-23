@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">memor</string>
+    <string name="app_bottomBar"><b>Hey! I am Expandable</b>
+        \n\nThis is an Open Source Project , \n if you wish to contribute :
+        \n\n <i><u>https://github.com/sagarpreet-chadha/memor </u></i>\n\n <b> -Sagarpreet Chadha \n
+         Delhi Technological University</b>
+    </string>
+
+    <string name="app_bottomBar2"><b>Hey! How to use me ?</b>
+        \n\n Use the Floating Button to make a Reminder or a QuickNote .
+        \n\n <b>Pink Float Button lets you add a Reminder .</b>
+        \n<i><u>SWIPE Right ON a reminder to Delete it !!</u></i>\n
+        \n\n <b>Blue Float Button lets You add a Quck Note .</b>
+        \n<i><u>Click on the Title to expand it (To See Description) and Long Click ON the LIST-TITLE to delete it .</u></i>
+
+        \n\n<b>BYE</b>
+        \n\n <i><u>https://github.com/sagarpreet-chadha/memor </u></i>
+        \n\n <b><u> -Sagarpreet Chadha</u> \n
+         <u>Delhi Technological University</u></b>
+    </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_add_listview_activity">Add Reminder</string>
+    <string name="title_activity_flip_card_activity">FlipCard_activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-7414543903969508/2069387476</string>
+    <string name="banner_ad_unit_id_reminder">ca-app-pub-7414543903969508/5382780676</string>
+</resources>
